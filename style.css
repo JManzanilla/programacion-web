@@ -1,0 +1,87 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Caveat', cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+h2
+{
+    display: inline;
+}
+.marc
+{
+    background-color: cornflowerblue;
+    display: inline-block;
+    padding: 25px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    border: 5px solid rgba(80, 78, 78, 0.568);
+    box-shadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.2),10px 10px 15px 10px rgba(0, 0, 0, 0.2);
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.2);
+    transform: rotate(-1deg);
+}
+.caja1
+{
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: auto;
+    border: 10px solid rgb(172, 169, 4);
+    box-sizing: content-box;
+}
+.caja2
+{
+    width: 200px;
+    width: 200px;
+    background: blue;
+    margin: auto;
+    position: relative;
+    top: 10px;
+}
+.t1 
+{
+    color: olivedrab
+}
+.prueba-form__input
+{
+    color: rgba(224, 31, 47, 0.685)
+}
+.prueba-form__h2
+{
+    font-size: 2.5em;  
+    font-family: 'Sedgwick Ave Display', cursive;
+    line-height: 2;
+    font-weight: 50;
+    background-color: black; 
+    width: 100vw;
+    height: 15vh;
+    color: white;
+}
+#id1 
+{
+    color: red
+}
+[a="ok"] 
+{
+color: blue
+}
+h2 p { 
+    color: orchid
+}
+.t2:hover  
+{
+    color: rgba(11, 39, 165, 0.61)
+}
+u
+{
+ color:coral
+   
+}
+h4 
+{
+    color: rgb(62, 62, 150) !important
+}
