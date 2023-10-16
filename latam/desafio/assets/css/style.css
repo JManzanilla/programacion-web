@@ -1,0 +1,29 @@
+.logo
+{
+    height: 25px;
+    width: 75px;
+}
+.enc
+{
+    margin-top: 10px;
+    text-align: center;
+}
+.text-blue
+{
+    color: #009ee3;
+    text-align: center;
+}
+.text-white
+{
+    color: #ffffff;
+}
+.container
+{
+    background-image: url("../img/hero_academia.jpg");
+    background-repeat: no-repeat;
+    background-size: 1266px;
+    font-family: sans-serif;
+    height: 650px;
+    text-align: center;
+    width: 100%;
+}

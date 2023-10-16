@@ -1,0 +1,32 @@
+/* Cambiar el color de fondo del encabezado */
+header {
+    background-color: #0066cc;
+    color: white;
+    text-align: center;
+}
+
+/* Cambiar el estilo del texto en los títulos de sección */
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Añadir un borde a las imágenes */
+img {
+    border: 1px solid #999;
+    max-width: 100%;
+}
+
+/* Cambiar el color de los enlaces de navegación */
+nav a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* Estilizar el pie de página */
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}

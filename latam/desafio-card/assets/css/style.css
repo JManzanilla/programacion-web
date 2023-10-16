@@ -1,0 +1,45 @@
+*
+{
+font-family: sans-serif;
+}
+h1
+{
+    font-weight: 20px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+p
+{
+    font-weight: 12.5px;
+    font-size: 12.5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+}
+.card-title
+{
+border-radius: 10px;
+border: 1.5px solid rgb(70, 67, 67);
+width: 200px;
+height: 215px;
+}
+a
+{
+text-align: center;
+text-decoration: none;
+background-color: rgb(9, 24, 224);
+border-radius: 15px;
+color: rgb(243, 244, 245);
+margin-left: 15px;
+}
+.tamaño
+{
+    width: 202px;
+    height: 450px;
+    border: 1.5px solid rgb(175, 160, 156); 
+}

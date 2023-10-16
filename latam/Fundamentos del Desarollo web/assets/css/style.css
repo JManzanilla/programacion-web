@@ -1,0 +1,82 @@
+.logo
+{
+    width: 75px;
+    height: 25px;
+}
+.imagen1
+{
+    text-align: center;
+   
+}
+.container
+{
+    width: 1266px;
+}
+
+.cont1
+{
+    background-image: url("../img/hero_academia.jpg");
+    background-repeat: no-repeat;
+    background-size: 1266px;
+    font-family: sans-serif;
+    height: 650px;
+    text-align: center;
+    width: 100%;
+}
+.cont1 h1
+{
+    color: #009ee3;
+    font-size: 15px;
+    text-shadow: #38353f;
+}
+.cont1 h2
+{
+    color:#009ee3;
+    text-shadow: #38353f;
+}
+.cont1 p
+{
+    color: #ffffff;
+    text-shadow: #38353f;
+}
+a
+{
+    color: black;
+    background-color: rgb(202, 198, 198);
+    border: 5px solid rgb(202, 198, 198);
+    border-radius: 5px;
+    font-size: small;
+    text-decoration: none;
+    line-height: 3rem;
+    padding: 0 2rem;
+}
+.cont2
+{
+    display: inline-block;
+    background-color: #e9501d;
+    margin: auto;
+}
+img
+{
+    text-align: right;
+}
+/*.logo2
+{
+    margin-top: 50px;
+    width: 250px;
+    width: 250px;
+}
+*/
+.logo2 img
+{
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+}
+.text
+{
+    color: #ffffff;
+    text-shadow: #38353f;
+    display: inline-block; 
+}
